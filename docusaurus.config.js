@@ -113,7 +113,7 @@ onBrokenMarkdownLinks: 'ignore',
 },
 {
   label: 'Thesis (PDF)',
-  href: '/files/thesis.pdf',
+  href: '/maggie-docs/files/thesis.pdf',
   position: 'left',
 },
 
