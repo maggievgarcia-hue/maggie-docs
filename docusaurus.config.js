@@ -112,10 +112,11 @@ onBrokenMarkdownLinks: 'ignore',
   position: 'right',
 },
 {
-  label: 'Thesis',
-  to: '/docs/thesis',
+  label: 'Thesis (PDF)',
+  href: '/files/thesis.pdf',
   position: 'left',
 },
+
 {
   label: 'GitHub',
   href: 'https://github.com/facebook/docusaurus',
