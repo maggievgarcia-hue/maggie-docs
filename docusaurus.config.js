@@ -113,7 +113,7 @@ onBrokenMarkdownLinks: 'ignore',
 },
 {
   label: 'Thesis (PDF)',
-  href: '/maggie-docs/thesis.pdf',
+  href: 'https://maggievgarcia-hue.github.io/maggie-docs/files/thesis.pdf',
   position: 'left',
 },
 
