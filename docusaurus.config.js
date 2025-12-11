@@ -92,21 +92,20 @@ onBrokenMarkdownLinks: 'ignore',
   },
   items: [
     {
-      label: 'About Me',
-      to: 'about',
-      position: 'left',
-    },
-    {
-      label: 'Writing Samples',
-      to: '/docs/writing-samples',
-      position: 'left',
-    },
-    {
-      label: 'Résumé',
-      to: 'resume',
-      position: 'left',
-    },
-    
+  label: 'About Me',
+  to: 'about',
+  position: 'left',
+},
+{
+  label: 'Writing Samples',
+  to: '/docs/writing-samples',
+  position: 'left',
+},
+{
+  label: 'Résumé',
+  to: 'resume',
+  position: 'left',
+},
 {
   label: 'LinkedIn',
   href: 'https://www.linkedin.com/in/maggie-garcia-3b44902a4/',
@@ -117,10 +116,12 @@ onBrokenMarkdownLinks: 'ignore',
   to: '/docs/thesis',
   position: 'left',
 },
-href: 'https://github.com/facebook/docusaurus',
+{
   label: 'GitHub',
+  href: 'https://github.com/facebook/docusaurus',
   position: 'right',
 },
+
 
         ],
       },
