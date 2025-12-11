@@ -31,5 +31,18 @@ module.exports = {
         },
       ],
     },
+
+    {
+      type: 'category',
+      label: 'Thesis',
+      collapsed: false,
+      items: [
+        {
+          type: 'doc',
+          id: 'thesis',
+          label: 'Senior Literary Thesis',
+        },
+      ],
+    },
   ],
 };
